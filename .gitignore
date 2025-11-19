@@ -23,7 +23,6 @@ jxps-is-zynq.cache/
 /jxps-is-zynq.sdk/webtalk
 /jxps-is-zynq.sdk/RemoteSystemsTempFiles
 jxps-is-zynq.sdk/core_design_wrapper.hdf
-jxps-is-zynq.sdk/core_code_bsp/.sdkproject
 jxps-is-zynq.sdk/core_code/src/Xilinx.spec
 
 #忽略自动生成的设计仿真文件
