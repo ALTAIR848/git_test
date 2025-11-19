@@ -37,3 +37,4 @@ jxps-is-zynq.srcs/sources_1/bd/core_design/core_design_ooc.xdc
 /jxps-is-zynq.srcs/sources_1/bd/core_design/ui
 /jxps-is-zynq.sdk/system.hdf_expanded
 /jxps-is-zynq.sdk/.sdk/launch_scripts
+/jxps-is-zynq.srcs/sources_1/bd/core_design/hdl
