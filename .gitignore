@@ -31,5 +31,12 @@ jxps-is-zynq.sdk/core_code_bsp/.sdkproject
 jxps-is-zynq.sdk/core_code/src/Xilinx.spec
 
 #忽略自动生成的设计仿真文件
-
-/jxps-is-zynq.srcs/sources_1/new
+/jxps-is-zynq.srcs/sources_1/bd/core_design/ip
+/jxps-is-zynq.srcs/sources_1/bd/core_design/ipshared
+jxps-is-zynq.srcs/sources_1/bd/core_design/core_design.bxml
+jxps-is-zynq.srcs/sources_1/bd/core_design/core_design_ooc.xdc
+/jxps-is-zynq.srcs/sources_1/bd/core_design/hw_handoff
+/jxps-is-zynq.srcs/sources_1/bd/core_design/sim
+/jxps-is-zynq.srcs/sources_1/bd/core_design/synth
+/jxps-is-zynq.srcs/sources_1/bd/core_design/ui
+/jxps-is-zynq.sdk/system.hdf_expanded
