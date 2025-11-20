@@ -1,3 +1,7 @@
+#在jxps-is-zynq-xpr文件夹下有xpr文件，复制到根目录即可打开工程
+#根目录下的xpr不需要版本管理，这是包含了大量自动生成、临时性和本地环境信息的工作状态文件
+/jxps-is-zynq.xpr
+
 # 忽略 Vivado 运行和生成目录
 jxps-is-zynq.runs/
 jxps-is-zynq.sim/
@@ -37,3 +41,4 @@ jxps-is-zynq.srcs/sources_1/bd/core_design/core_design_ooc.xdc
 /jxps-is-zynq.sdk/system.hdf_expanded
 /jxps-is-zynq.sdk/.sdk/launch_scripts
 /jxps-is-zynq.srcs/sources_1/bd/core_design/hdl
+
